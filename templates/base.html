@@ -1,0 +1,28 @@
+!DOCTYPE html>
+<html>
+<head>
+	<title>{% block title %}{{ title }}{% endblock %}</title>
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="https://storage.cloud.google.com/watchful-hall-281307/static/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="   https://storage.cloud.google.com/watchful-hall-281307/static/css/style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+	<script type="text/javascript" src="https://storage.cloud.google.com/watchful-hall-281307/static/js/dev-vue.js"></script>
+	{% block css %}{% endblock %}
+
+	{% block js %}{% endblock %}
+</head>
+<body>
+	<nav class="navbar navbar-light">
+	  <a class="navbar-brand" href="#">
+	    Chat Bot
+
+	  </a>
+	</nav>
+
+	{% block content %}
+
+	{% endblock %}
+</body>
+</html>

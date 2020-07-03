@@ -11,8 +11,10 @@
  * [GKE](https://cloud.google.com/kubernetes-engine?)  
  * [Docker](https://www.docker.com/)  
  * [Django-rest-framework](https://www.django-rest-framework.org/)  
- * Python
- ## Example
- 
- 
+ * Python  
+   
+ ## Example  
+   
+ ![screen0](screenshot/Screenshot2.jpeg)  
+ ![screen1](screenshot/Screenshot1.jpeg)
  

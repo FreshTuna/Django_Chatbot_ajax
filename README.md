@@ -4,6 +4,7 @@
  This code is deployed on GKE, so feel free to check out and add some questions!
    
  Link : <http://34.64.69.199/>
+ ==> Sorry, no money to maintain my project. It will close soon.
  
  ## Tech Stack
  * [Django](https://www.djangoproject.com/)  
